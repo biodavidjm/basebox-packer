@@ -2,7 +2,7 @@
   "variables": {
     "provisioner": "chef",
     "provisioner_version": "latest",
-    "iso_url": "../../iso/en_windows_8_1_enterprise_x64_dvd_MLF_X18-96759.iso",
+    "iso_url": "../../iso/SW_DVD5_SA_Win_Ent_8.1_64BIT_English_MLF_X18-96759.ISO",
     "iso_checksum": "ae792b2ef982dac7391224b624eab8d6340d78ab"
   },
   "builders": [
